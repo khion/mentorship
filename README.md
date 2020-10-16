@@ -1,44 +1,23 @@
-## My Web Application (Title)
+# Mentorship App
 
-* [General info](#general-info)
+This project, created by Team 31, is designed to help trainees in the workplace connect with more senior staff.
+
+## Contents
+
 * [Technologies](#technologies)
-* [Contents](#content)
+* [Credits](#credits)
 
-## General Info
-This browser based web application to ...
-	
 ## Technologies
 Technologies used for this project:
 * HTML, CSS
 * JavaScript
-* Bootstrap 
-* ...
-	
-## Content
-Content of the project folder:
+* Bootstrap
+* VS Code
 
-```
- Top level of project folder: 
-├── .gitignore               # Git ignore file
-├── index.html               # landing HTML file, this is what users see when you come to url
-└── README.md
+## Credits
 
-It has the following subfolders and files:
-├── .git                     # Folder for git repo
-├── images                   # Folder for images
-    /blah.jpg                # 
-├── scripts                  # Folder for scripts
-    /blah.js                 # 
-├── styles                   # Folder for styles
-    /blah.css                # 
+Isaac index.hml
 
-Firebase hosting files: 
-├── .firebaserc...
+Liam: main.html
 
-
-```
-
-Tips for file naming files and folders:
-* use lowercase with no spaces
-* use dashes (not underscore) for word separation
-
+Rodnick: profile.html

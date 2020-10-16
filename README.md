@@ -28,8 +28,8 @@ The features required to be implemented.
 
 ## Credits
 
-| Site | Author |
-| ---- | ------ |
+| Site | Author | Notes |
+| ---- | ------ | ----- |
 | `index` | Isaac |
 | `main` | Liam |
 | `profile`| Rodnick |
